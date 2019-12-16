@@ -1,3 +1,3 @@
 # OpenCV
 
-Recognizing imagesg with OpenCV and Python
+Recognizing image's with OpenCV and Python
