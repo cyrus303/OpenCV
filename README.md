@@ -1,3 +1,3 @@
 # OpenCV
 
-Recognizing digits with OpenCV and Python
+Recognizing imagesg with OpenCV and Python
